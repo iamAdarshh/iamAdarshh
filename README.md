@@ -1,12 +1,11 @@
-#### Hi there! 👋 I'm Adarsh Choudhary
-I'm a passionate software developer pursuing my master's in computer science at the University of Paderborn, Germany. Originally from India, I have a solid background in building robust software solutions and optimizing systems for efficiency. I have previously worked as a Software developer at TravelCue Management Pvt Ltd, India.
+## Hi, I'm Adarsh 👋
 
-I have been working as a Software developer since 2021. My experience is primarily with C# and dotnet-related technologies, as well as cloud infrastructure on Azure. I have also been working on Vue 3 and React from the year 2022.
+Software developer since 2021, mostly .NET and React. Based in Paderborn, Germany, where I'm finishing an M.Sc. in Computer Science.
 
-<img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iamAdarshh&show_icons=true&hide_border=true" />
+I'm drawn to problems where the answer turns out to be structural — business logic that quietly ended up in four places, a query that got slow for a reason nobody wrote down, an interface that's hard to change without breaking something else. Most of what lands in this profile is me trying something out properly rather than reading about it.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/adarsh-choudhary-686804180/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/adarsh-choudhary-686804180/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/iamadarshhh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/notadarshh/" height="30" width="40" /></a>
-</p>
+Currently writing my thesis on using large language models to detect architectural tactics in source code. Some of the tooling will end up here.
+
+**Working with:** C#, .NET Core, ASP.NET, React, TypeScript, SQL Server, Blazor, Entity Framework, Python
+
+[LinkedIn](https://www.linkedin.com/in/choudhary-adarsh/) · adarshchoudharyb371@gmail.com
